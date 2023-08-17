@@ -1,7 +1,7 @@
 # Image Warden - Image Watermarking Tool
 
-[![Image Warden Logo](![image](https://github.com/Aloysius7/ImageWarden/assets/74344087/e53f9adc-f6be-41e3-bedc-0e1ae87fc529)
-)]
+![image](https://github.com/Aloysius7/ImageWarden/assets/74344087/99c4a4a9-3308-489f-bc83-8fccc40af4bf)
+
 
 Elevate and secure your digital creations effortlessly with Image Warden, the ultimate image watermarking tool.
 
@@ -9,8 +9,8 @@ Elevate and secure your digital creations effortlessly with Image Warden, the ul
 
 Image Warden is a powerful desktop program that allows you to add custom watermarks to your images while preserving their visual appeal and integrity. Whether you're a photographer, artist, or content creator, Image Warden ensures your work remains uniquely identifiable and protected from unauthorized use.
 
-![Watermarked Image](![image](https://github.com/Aloysius7/ImageWarden/assets/74344087/630939bd-d163-4844-9de7-2aa03429a248)
-)
+![image](https://github.com/Aloysius7/ImageWarden/assets/74344087/fe3ba51b-3ad4-4d4b-bf91-4e2722ed6e31)
+
 
 ## Key Features
 - Transparency Control: Adjust watermark opacity to strike the perfect balance between visibility and subtlety.
